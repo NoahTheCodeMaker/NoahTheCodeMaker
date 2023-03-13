@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NoahTheCodeMaker
 - 👀 I’m interested in Music, Blockchain, and all-around Technology.
-- 🌱 I’m currently learning Full Stack Dev Fundamentals.
+- 🌱 I’m currently learning Full Stack Development.
 
 <!---
 NoahTheCodeMaker/NoahTheCodeMaker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
