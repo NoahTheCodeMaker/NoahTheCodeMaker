@@ -5,6 +5,7 @@
 - 🌱 I’m currently learning about Full Stack Development, using many different web technologies.
 - 🎓 I completed my Associates Degree in Science, Technology, and Math with studies in Computer Science at Empire State University.
 - 📜 See my Udacity Nanodegree at https://graduation.udacity.com/confirm/GLKVHA7Y
+- 💻 See mt personal site at https://noahdragoon.dev
 
 ### :fire: My Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=NoahTheCodeMaker&theme=dark&background=000000)](https://git.io/streak-stats)
